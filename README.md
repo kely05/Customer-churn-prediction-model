@@ -5,4 +5,4 @@ Dự đoán khả năng rời bỏ (churn) của khách hàng.
 
 Phân tích các đặc trưng ảnh hưởng đến churn.
 
-Đánh giá hiệu suất mô hình bằng Cross-Validation.
+Đánh giá hiệu suất mô hình
