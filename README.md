@@ -1,1 +1,1 @@
-# M-h-nh-kh-ch-h-ng-r-i-i
+# Mô hình khách hàng rời đi
