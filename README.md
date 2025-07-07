@@ -8,9 +8,7 @@ Phân tích các đặc trưng ảnh hưởng đến churn.
 Đánh giá hiệu suất mô hình
 
 Mô tả dữ liệu
-Một số cột dữ liệu thường dùng trong mô hình:
-
-Cột dữ liệu	Ý nghĩa
+một số cột dữ liệu thường dùng trong mô hình:
 
 Age:	Tuổi của khách hàng
 
