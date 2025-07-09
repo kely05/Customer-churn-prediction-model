@@ -36,3 +36,5 @@ Dự án này xây dựng một mô hình học máy nhằm dự đoán khả n�
   Hàm mất mát: binary_crossentropy
 
   Bộ tối ưu: adam
+
+  link mở: https://colab.research.google.com/github/nguyenhson03/Customer-churn-prediction-model/blob/main/Mohinhkhachhang.ipynb#scrollTo=IRJAS05ZSpSI
